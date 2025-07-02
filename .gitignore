@@ -1,0 +1,7 @@
+.vs/
+*.ipch
+*.obj
+*.pch
+*.exe
+*.user
+*.log

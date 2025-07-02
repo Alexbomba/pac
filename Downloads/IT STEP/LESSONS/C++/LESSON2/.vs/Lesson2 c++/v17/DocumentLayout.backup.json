@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arg50\\Downloads\\Lesson2 c\u002B\u002B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC24F3E-64FF-4121-8E32-2F3FA837FD85}|Lesson2 c\u002B\u002B.vcxproj|C:\\Users\\arg50\\Downloads\\Lesson2 c\u002B\u002B\\Lesson2 c\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0DC24F3E-64FF-4121-8E32-2F3FA837FD85}|Lesson2 c\u002B\u002B.vcxproj|solutionrelative:Lesson2 c\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lesson2 c\u002B\u002B.cpp",
+              "DocumentMoniker": "C:\\Users\\arg50\\Downloads\\Lesson2 c\u002B\u002B\\Lesson2 c\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "Lesson2 c\u002B\u002B.cpp",
+              "ToolTip": "C:\\Users\\arg50\\Downloads\\Lesson2 c\u002B\u002B\\Lesson2 c\u002B\u002B.cpp",
+              "RelativeToolTip": "Lesson2 c\u002B\u002B.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-11T14:56:57.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

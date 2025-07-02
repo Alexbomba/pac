@@ -1,0 +1,5 @@
+﻿  LESSON9 tz.cpp
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\LESSON9 tz\LESSON9 tz.cpp(7,5): error C2084: функция "int main(void)" уже имеет текст реализации
+      C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\LESSON9 tz\Alexey.h(6,5):
+      см. предыдущее определение "main"
+  

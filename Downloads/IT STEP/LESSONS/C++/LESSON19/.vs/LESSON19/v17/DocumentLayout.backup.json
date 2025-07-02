@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arg50\\Downloads\\IT STEP\\LESSONS\\C\u002B\u002B\\LESSON19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2E15BC-16D5-42A0-9495-C79B70938913}|LESSON19.vcxproj|C:\\Users\\arg50\\Downloads\\IT STEP\\LESSONS\\C\u002B\u002B\\LESSON19\\LESSON19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F2E15BC-16D5-42A0-9495-C79B70938913}|LESSON19.vcxproj|solutionrelative:LESSON19.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2E15BC-16D5-42A0-9495-C79B70938913}|LESSON19.vcxproj|C:\\Users\\arg50\\Downloads\\IT STEP\\LESSONS\\C\u002B\u002B\\LESSON19\\Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F2E15BC-16D5-42A0-9495-C79B70938913}|LESSON19.vcxproj|solutionrelative:Header.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Header.h",
+              "DocumentMoniker": "C:\\Users\\arg50\\Downloads\\IT STEP\\LESSONS\\C\u002B\u002B\\LESSON19\\Header.h",
+              "RelativeDocumentMoniker": "Header.h",
+              "ToolTip": "C:\\Users\\arg50\\Downloads\\IT STEP\\LESSONS\\C\u002B\u002B\\LESSON19\\Header.h",
+              "RelativeToolTip": "Header.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T14:47:52.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LESSON19.cpp",
+              "DocumentMoniker": "C:\\Users\\arg50\\Downloads\\IT STEP\\LESSONS\\C\u002B\u002B\\LESSON19\\LESSON19.cpp",
+              "RelativeDocumentMoniker": "LESSON19.cpp",
+              "ToolTip": "C:\\Users\\arg50\\Downloads\\IT STEP\\LESSONS\\C\u002B\u002B\\LESSON19\\LESSON19.cpp",
+              "RelativeToolTip": "LESSON19.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T13:49:42.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

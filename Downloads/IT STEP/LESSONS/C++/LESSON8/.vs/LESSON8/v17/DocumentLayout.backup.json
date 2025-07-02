@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arg50\\Downloads\\IT STEP\\LESSONS\\C\u002B\u002B\\LESSON8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{297A2E51-B354-4B10-A671-4FD0821BF8C5}|LESSON8.vcxproj|C:\\Users\\arg50\\Downloads\\IT STEP\\LESSONS\\C\u002B\u002B\\LESSON8\\LESSON8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{297A2E51-B354-4B10-A671-4FD0821BF8C5}|LESSON8.vcxproj|solutionrelative:LESSON8.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LESSON8.cpp",
+              "DocumentMoniker": "C:\\Users\\arg50\\Downloads\\IT STEP\\LESSONS\\C\u002B\u002B\\LESSON8\\LESSON8.cpp",
+              "RelativeDocumentMoniker": "LESSON8.cpp",
+              "ToolTip": "C:\\Users\\arg50\\Downloads\\IT STEP\\LESSONS\\C\u002B\u002B\\LESSON8\\LESSON8.cpp*",
+              "RelativeToolTip": "LESSON8.cpp*",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAiwAUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-03T13:50:19.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

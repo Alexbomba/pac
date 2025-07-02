@@ -1,0 +1,25 @@
+﻿Banknote1000UAH.obj : error LNK2005: "public: __cdecl Banknote1000UAH::Banknote1000UAH(void)" (??0Banknote1000UAH@@QEAA@XZ) уже определен в 27.05.2025.obj
+Banknote1000UAH.obj : error LNK2005: "public: void __cdecl Banknote1000UAH::Info(void)" (?Info@Banknote1000UAH@@QEAAXXZ) уже определен в 27.05.2025.obj
+Banknote1000UAH.obj : error LNK2005: "public: void __cdecl Banknote1000UAH::SetYearIssued(int)" (?SetYearIssued@Banknote1000UAH@@QEAAXH@Z) уже определен в 27.05.2025.obj
+Book.obj : error LNK2005: "public: void __cdecl Book::Info(void)" (?Info@Book@@QEAAXXZ) уже определен в 27.05.2025.obj
+Book.obj : error LNK2005: "public: void __cdecl Book::SetAuthor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetAuthor@Book@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в 27.05.2025.obj
+Book.obj : error LNK2005: "public: void __cdecl Book::SetGenre(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetGenre@Book@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в 27.05.2025.obj
+Book.obj : error LNK2005: "public: void __cdecl Book::SetPages(int)" (?SetPages@Book@@QEAAXH@Z) уже определен в 27.05.2025.obj
+Book.obj : error LNK2005: "public: void __cdecl Book::SetTitle(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetTitle@Book@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в 27.05.2025.obj
+ElectricKettle.obj : error LNK2005: "public: void __cdecl ElectricKettle::Info(void)" (?Info@ElectricKettle@@QEAAXXZ) уже определен в 27.05.2025.obj
+ElectricKettle.obj : error LNK2005: "public: void __cdecl ElectricKettle::SetBrand(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetBrand@ElectricKettle@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в 27.05.2025.obj
+ElectricKettle.obj : error LNK2005: "public: void __cdecl ElectricKettle::SetCapacity(double)" (?SetCapacity@ElectricKettle@@QEAAXN@Z) уже определен в 27.05.2025.obj
+ElectricKettle.obj : error LNK2005: "public: void __cdecl ElectricKettle::SetColor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetColor@ElectricKettle@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в 27.05.2025.obj
+ElectricKettle.obj : error LNK2005: "public: void __cdecl ElectricKettle::SetHasAutoOff(bool)" (?SetHasAutoOff@ElectricKettle@@QEAAX_N@Z) уже определен в 27.05.2025.obj
+GelPen.obj : error LNK2005: "public: void __cdecl GelPen::Info(void)" (?Info@GelPen@@QEAAXXZ) уже определен в 27.05.2025.obj
+GelPen.obj : error LNK2005: "public: void __cdecl GelPen::SetBrand(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetBrand@GelPen@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в 27.05.2025.obj
+GelPen.obj : error LNK2005: "public: void __cdecl GelPen::SetInkColor(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetInkColor@GelPen@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в 27.05.2025.obj
+GelPen.obj : error LNK2005: "public: void __cdecl GelPen::SetIsRetractable(bool)" (?SetIsRetractable@GelPen@@QEAAX_N@Z) уже определен в 27.05.2025.obj
+GelPen.obj : error LNK2005: "public: void __cdecl GelPen::SetTipSize(double)" (?SetTipSize@GelPen@@QEAAXN@Z) уже определен в 27.05.2025.obj
+main.obj : error LNK2005: main уже определен в 27.05.2025.obj
+Phone.obj : error LNK2005: "public: void __cdecl Phone::Info(void)" (?Info@Phone@@QEAAXXZ) уже определен в 27.05.2025.obj
+Phone.obj : error LNK2005: "public: void __cdecl Phone::SetBrand(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetBrand@Phone@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в 27.05.2025.obj
+Phone.obj : error LNK2005: "public: void __cdecl Phone::SetModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?SetModel@Phone@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) уже определен в 27.05.2025.obj
+Phone.obj : error LNK2005: "public: void __cdecl Phone::SetScreenSize(double)" (?SetScreenSize@Phone@@QEAAXN@Z) уже определен в 27.05.2025.obj
+Phone.obj : error LNK2005: "public: void __cdecl Phone::SetStorage(int)" (?SetStorage@Phone@@QEAAXH@Z) уже определен в 27.05.2025.obj
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\27.05.2025\x64\Debug\27.05.2025.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
